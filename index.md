@@ -8,7 +8,7 @@ layout: default
 ---
 
 ## 8/21/2021 Update
-* The Illusioner has a 50% chance of spawning for every new wave in a pillager raid
+* The Illusioner has a 50% chance of spawning for every wave in a pillager raid.
 * The plugin was created by me, so if you find any bugs or performance issues associated with it - Please Tell Me.
 * [Download](https://mega.nz/file/zptAHSzA#SICqMTQhR-PwBKJTYof31oDAAV1F5aPjqcde3x5nv-w)
 
