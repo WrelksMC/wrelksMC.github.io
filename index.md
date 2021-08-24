@@ -7,6 +7,15 @@ layout: default
 
 ---
 
+## 8/24/2021 Update
+* Skeleton Horses have a 25% chance of being replaced with a Zombie horse.
+* The Killer Bunny now has a *1 in 25,000* chance of spawning.
+* Optimized killer Bunny spawning method.
+* The plugin was created by me, so if you find any bugs or performance issues associated with it - Please Tell Me.
+* [Download](https://mega.nz/file/z9cyFLRb#ngQ-y6G8vkcqReqgTQiT_Ab2yt_SXvQbhMY8YGZagxg)
+
+---
+
 ## 8/21/2021 Update
 * The Illusioner has a 50% chance of spawning for every wave in a pillager raid.
 * The plugin was created by me, so if you find any bugs or performance issues associated with it - Please Tell Me.
