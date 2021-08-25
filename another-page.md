@@ -4,6 +4,8 @@ layout: default
 
 # Technical Server Information
 
+---
+
 ### paper.yml
 ```
 verbose: false
