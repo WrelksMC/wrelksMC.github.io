@@ -2,8 +2,9 @@
 layout: default
 ---
 
-# Server Map
-[Click Me to View Server Map!](http://158.69.145.35:9449/)
+# Server Details
+1.  [Online Server Map](http://158.69.145.35:9449/)
+2.  [Techical Server Information](https://wrelksmc.github.io/another-page)
 
 ---
 
