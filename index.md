@@ -3,9 +3,16 @@ layout: default
 ---
 
 # Server Details
-1.  [Online Server Map](http://158.69.145.35:9449/)
+1.  [Online Server Map](http://minecraft.relks.org:9449/)
 2.  [Techical Server Information](https://wrelksmc.github.io/another-page)
 3.  *Seed: -5165434594539467614*
+
+---
+
+## 11/29/2021 Update
+* All hostile mobs can now be attached to a lead, including villagers. 
+* IP address has been changed to **minecraft.relks.org**
+* Dynmap address changed
 
 ---
 
