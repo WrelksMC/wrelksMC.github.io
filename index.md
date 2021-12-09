@@ -9,6 +9,14 @@ layout: default
 
 ---
 
+## 12/9/2021 1.18 UPDATE
+* Render distance set to 16 chunks.
+* Simulation distance set to 4 chunks.
+* World border is now 220,000 in diameter for overworld, nether, and end.
+* Dynmap zoom has been changed.
+* The plugin enabling leads on Villagers and Hostile mobs has been disabled due to a bug.
+
+
 ## 11/29/2021 Update
 * All hostile mobs can now be attached to a lead, including villagers. 
 * IP address has been changed to **minecraft.relks.org**
