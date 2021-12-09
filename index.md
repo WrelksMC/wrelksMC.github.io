@@ -16,6 +16,7 @@ layout: default
 * Dynmap zoom has been changed.
 * The plugin enabling leads on Villagers and Hostile mobs has been disabled due to a bug.
 
+---
 
 ## 11/29/2021 Update
 * All hostile mobs can now be attached to a lead, including villagers. 
