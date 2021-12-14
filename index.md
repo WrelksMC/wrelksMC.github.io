@@ -21,6 +21,8 @@ anarchy server. [Here is how to use the dupe](https://www.youtube.com/watch?v=Bb
 * Carpet/Rail slimeblock dupe enabled.
 * Bedrock breaking exploits enabled.
 
+---
+
 ## 12/9/2021 1.18 UPDATE
 * Render distance set to 16 chunks.
 * Simulation distance set to 4 chunks.
