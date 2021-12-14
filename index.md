@@ -9,6 +9,18 @@ layout: default
 
 ---
 
+## 12/14/2021 Update
+* Given that every player at this point pretty much has every item, I thought it would be 
+appropriate to take a page out of the SciCraft server's rule book and enable duping. This will
+allow a massive upscaling in the creation of major builds and contraptions. We all have max enchanted stuff
+made of diamond / netherite so duping for valuables is obviously not a temptation any more. So enjoy, building what
+ever your mind can come up with. 
+* The dupe that I've chosen to *'un-patch'* on the server is the craft-dupe. You may've heard of it if you ever played on an
+anarchy server. [Here is how to use the dupe](https://www.youtube.com/watch?v=BbnGgqtiDz0)
+* Funny that it's a little kid tho lmao, it's literally the only good tutorial on this, ha.
+* Carpet/Rail slimeblock dupe enabled.
+* Bedrock breaking exploits enabled.
+
 ## 12/9/2021 1.18 UPDATE
 * Render distance set to 16 chunks.
 * Simulation distance set to 4 chunks.
